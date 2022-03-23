@@ -1,12 +1,10 @@
 # Project 2 Generative Audio
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Ellie Kripal, ekripal2@unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+Continuing from an assignment I completed on this topic, I am using Piano Genie to play out the digits of Pi. I will be taking a model of Piano Genie that will make it easier to output numbers without having to manually input them through the web. I have also put together a set of rules. This project will use the first 1000 (could change) digits of pi. They will be grouped into sets of three as chords and held for a half note in 4/4 time. As Piano Genie only uses digits 1-8, a 9 would denote that that number be omitted and the chord would be played for a whole note. If there was a 0 or a repeat number in the set of digits, they would be played separately for a quarter note.
 
 ## Model/Data
 
