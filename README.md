@@ -25,15 +25,6 @@ Documentation of your results in an appropriate format, both links to files and 
 - musical scores
 - ... some other form
 
-## Technical Notes
-
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
-
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+- https://magenta.tensorflow.org/pianogenie
