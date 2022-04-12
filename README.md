@@ -13,17 +13,12 @@ Continuing from an assignment I completed on this topic, I used Piano Genie to p
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+generative-audio-elliekripal.ipynb
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- `.wav` files or `.mp4`
-- `.midi` files
-- musical scores
-- ... some other form
+[[πano genie.pdf]
+[πano genie.wav]
 
 ## Reference
 
