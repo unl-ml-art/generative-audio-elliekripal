@@ -17,8 +17,8 @@ generative-audio-elliekripal.ipynb
 
 ## Results
 
-[[πano genie.pdf]
-[πano genie.wav]
+πano genie.pdf - The final composition of generated piece
+πano genie.wav - Generated piece played out by composition software
 
 ## Reference
 
