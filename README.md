@@ -4,13 +4,12 @@ Ellie Kripal, ekripal2@unl.edu
 
 ## Abstract
 
-Continuing from an assignment I completed on this topic, I am using Piano Genie to play out the digits of Pi. I will be taking a model of Piano Genie that will make it easier to output numbers without having to manually input them through the web. I have also put together a set of rules. This project will use the first 1000 (could change) digits of pi. They will be grouped into sets of three as chords and held for a half note in 4/4 time. As Piano Genie only uses digits 1-8, a 9 would denote that that number be omitted and the chord would be played for a whole note. If there was a 0 or a repeat number in the set of digits, they would be played separately for a quarter note.
+Continuing from an assignment I completed on this topic, I used Piano Genie to play out the digits of Pi. I put together a set of rules to use for this project. It used the first couple hundred digits of pi. I used the amount of digits enough for a 26 measure, one-minute song. They were grouped into sets of three as chords and held for a half note in 4/4 time. As Piano Genie only uses digits 1-8, a 9 denotes that that number be omitted and the chord was played for a whole note. If there was a 0 or a repeat number in the set of digits, they were played separately for a quarter note. After playing it on Piano Genie and letting the AI develop the composition, I plugged it into a composer software that allowed for tempo and a more structured sound, thus giving "πano Genie" its name.
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+- Document outlining first thousand digits of pi grouped together via the given parameters
+- Final Composition of Piano Genie piece
 
 ## Code
 
