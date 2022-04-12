@@ -23,3 +23,4 @@ generative-audio-elliekripal.ipynb
 ## Reference
 
 - https://magenta.tensorflow.org/pianogenie
+- https://www.noteflight.com
